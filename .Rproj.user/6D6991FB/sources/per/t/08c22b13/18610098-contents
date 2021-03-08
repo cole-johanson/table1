@@ -520,12 +520,13 @@ render.categorical.default <- function(x, ..., na.is.category=TRUE) {
 #' \code{NA}) values for displaying in the table.
 #'
 #' @param x A vector.
+#' @param name Name of the variable the vector represents.
 #' @param ... Further arguments, passed to \code{\link{stats.apply.rounding}}.
 #'
 #' @return A \code{character} vector. Each element is to be displayed in a
 #' separate cell in the table. The \code{\link{names}} of the vector are the
 #' labels to use in the table. Empty strings are allowed and
-#' result in empty table cells.
+#' result in empty table cells. By default, we set the name to "Missing".
 #'
 #' @examples
 #' y <- factor(sample(0:1, 99, replace=TRUE), labels=c("Female", "Male"))

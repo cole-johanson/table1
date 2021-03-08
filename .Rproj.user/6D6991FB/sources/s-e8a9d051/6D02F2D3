@@ -1,0 +1,24 @@
+{
+    "id": "6D02F2D3",
+    "path": "~/R/table1/tests/testthat/test-table1.R",
+    "project_path": "tests/testthat/test-table1.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1615218862592.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "34,3",
+        "scrollLine": "19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1615219688,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1615219688416,
+    "read_only": false,
+    "read_only_alternatives": []
+}
